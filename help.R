@@ -29,3 +29,13 @@
 #ambiguity
 #relative path ./ uses current location, which works but depends on which folder
 #you're in
+#modify files on local machine, save changes
+#stage changes (git add .)- adds anything in current repo, or add relative paths
+#commit staged changes, including a note (git commit -m "note to self")
+#push commits to the remote branch (git push origin main)
+#if you dont want to use the command line use git tab
+#if you dont want to use main (use different versions), you can change to different 
+#versions
+#commit often! push whenevver; small commits/stepwise changes easier to revert
+#1 commit can involve changes to multiple files
+#write clear, concise commit messages. commit for each unit of work completed
